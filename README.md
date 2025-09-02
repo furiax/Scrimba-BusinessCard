@@ -1,3 +1,3 @@
 # Scrimba-BusinessCard
-Assignment on scrimba.com
-Create a business card using basic css
+Assignment on scrimba.com <br>
+Create a business card using basic CSS
